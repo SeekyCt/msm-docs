@@ -1,5 +1,7 @@
 # msm-docs
-Documentation of various parts of Mario Sports Mix. All research is done on the PAL version of the game.
+Documentation of various parts of Mario Sports Mix.
+
+All research is done on the PAL version of the game.
 
 ## Contents
 
